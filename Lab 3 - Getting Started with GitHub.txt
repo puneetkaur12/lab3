@@ -1,9 +1,9 @@
-Lab 3 - Getting Started with GitHub
+Lab 3 - GETTING STARTED WITH GITHUB
 
-This lab is to introduce you to GitHub, the IT industry's current standard for Source Control and team collaboration.  To complete the lab:
+This LAB is to introduce you to GitHub, the IT industry's current standard for Source Control and team collaboration.  To complete the lab:
 
 - Create a new repository called Lab 3
-- Upload a copy of this document to your Lab 3 repository, using either the command prompt or Desktop client (you must Commit and Sync / Push)
+- Upload a copy of this document to your LAB 3 repository, using either the command prompt or Desktop client (you must Commit and Sync / Push)
 - Once the document has been uploaded to your GitHub repo, go to the Repo in your browser
 - Edit this document by making a change to the text anywhere, then save your change
 - From the command prompt or desktop client, pull the change you made online down to your machine
