@@ -1,6 +1,6 @@
-Lab 3 - GETTING STARTED WITH GITHUB
+LAB3 - GETTING STARTED WITH GITHUB
 
-This LAB is to introduce you to GitHub, the IT industry's current standard for Source Control and team collaboration.  To complete the lab:
+THIS LAB is to introduce you to GitHub, the IT industry's current standard for Source Control and team collaboration.  To complete the lab:
 
 - Create a new repository called Lab 3
 - Upload a copy of this document to your LAB 3 repository, using either the command prompt or Desktop client (you must Commit and Sync / Push)
